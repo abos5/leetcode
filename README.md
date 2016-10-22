@@ -1,1 +1,1 @@
-# My leetcode junal
+# My leetcode journal
